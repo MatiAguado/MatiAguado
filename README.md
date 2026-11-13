@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Matías 👋
 
-<!--
-**MatiAguado/MatiAguado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería en Sistemas de Información (UTN FRRo) en Rosario, Argentina.
 
-Here are some ideas to get you started:
+## 🛠️ En qué estoy trabajando
+- **Proyecto Final:** plataforma de Business Intelligence y monitoreo de riesgos de TI (Python, FastAPI, PostgreSQL, Angular, Docker). Me encargo del backend: CRUD, endpoints de la API, autenticación y roles.
+- **Ciberseguridad defensiva:** formación autodidacta con TryHackMe, reforzando redes y Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías
+- **Lenguajes:** JavaScript, TypeScript, Python, SQL
+- **Backend:** FastAPI, Flask, Node.js, Express
+- **Frontend:** React, Angular, HTML, CSS
+- **Bases de datos:** PostgreSQL, MySQL
+- **Herramientas:** Git, GitHub, Docker, Linux
+
+## 📫 Contacto
+- LinkedIn: [linkedin.com/in/matiasnicolasaguado](https://www.linkedin.com/in/matiasnicolasaguado/)
